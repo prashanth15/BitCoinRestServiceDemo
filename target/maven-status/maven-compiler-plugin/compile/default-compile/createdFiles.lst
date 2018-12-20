@@ -1,0 +1,8 @@
+com\websystique\springmvc\domain\Prices.class
+com\websystique\springmvc\domain\Data.class
+com\websystique\springmvc\configuration\BitCoinInitializer.class
+com\websystique\springmvc\configuration\BitCoinConfiguration.class
+com\websystique\springmvc\domain\BitCoinPrice.class
+com\websystique\springmvc\controller\BitCoinRestController.class
+com\websystique\springmvc\domain\Decision.class
+com\websystique\springmvc\dao\BitCoinDAO.class
